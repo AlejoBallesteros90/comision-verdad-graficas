@@ -1,3 +1,3 @@
 # Visualización radial Iniciativas para la paz
 
-[Ver visualización](https://visualizaciones-de-datos-sim.gitlab.io/iniciativas/)
+[Ver visualización](https://github.com/AlejoBallesteros90/comision-verdad-graficas/blob/main/public/index.html)
